@@ -5,7 +5,7 @@ http://sqlzoo.net/wiki/SQL_Tutorial
 1.1. Tutorials: Learn SQL in stages
 ----------------------------------
 + 0 SELECT basics
-Some simple queries to get you started
+ + Some simple queries to get you started
 + 1 SELECT name
   + Some pattern matching queries
 + 2 SELECT from World
