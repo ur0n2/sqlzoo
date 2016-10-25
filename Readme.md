@@ -1,8 +1,8 @@
-1. SQLZOO
+SQLZOO
 =========
 http://sqlzoo.net/wiki/SQL_Tutorial
 
-1.1. Tutorials: Learn SQL in stages
+1. Tutorials: Learn SQL in stages
 ----------------------------------
 + 0 SELECT basics
  + Some simple queries to get you started
