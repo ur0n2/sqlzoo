@@ -1,5 +1,5 @@
 [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial) Solved Query 
-=========
+====
 
 
 ## 1. Tutorials: Learn SQL in stages
